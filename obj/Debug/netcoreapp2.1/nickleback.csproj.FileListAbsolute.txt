@@ -1,0 +1,11 @@
+C:\Users\phil\workspace\csharp\excercises\nickleback\bin\Debug\netcoreapp2.1\nickleback.deps.json
+C:\Users\phil\workspace\csharp\excercises\nickleback\bin\Debug\netcoreapp2.1\nickleback.runtimeconfig.json
+C:\Users\phil\workspace\csharp\excercises\nickleback\bin\Debug\netcoreapp2.1\nickleback.runtimeconfig.dev.json
+C:\Users\phil\workspace\csharp\excercises\nickleback\bin\Debug\netcoreapp2.1\nickleback.dll
+C:\Users\phil\workspace\csharp\excercises\nickleback\bin\Debug\netcoreapp2.1\nickleback.pdb
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.csprojAssemblyReference.cache
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.csproj.CoreCompileInputs.cache
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.AssemblyInfoInputs.cache
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.AssemblyInfo.cs
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.dll
+C:\Users\phil\workspace\csharp\excercises\nickleback\obj\Debug\netcoreapp2.1\nickleback.pdb
